@@ -1,7 +1,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/stanersk/abap-platform-rap630)](https://api.reuse.software/info/github.com/stanersk/abap-platform-rap630)
 
 # RAP630 - Use ABAP Cloud for developer extensibility
-https://github.com/SAP-samples/abap-platform-rap630/tree/main
+https://github.com/stanersk/abap-platform-rap630/tree/main
 
 ## Description
 
